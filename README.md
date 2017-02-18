@@ -1,8 +1,8 @@
 # Penalty Kicks Dataset from Transfermarkt
-This repository contains a dataset of all players currently playing in a squad on Transfermarkt and their penalty kicks statistics
+This repository contains a dataset of all players currently playing in a squad on [Transfermarkt](http://www.transfermarkt.co.uk/) and their penalty kicks statistics
 
 # Content
-This dataset contains one player per row. I crawled all players on [Transfermarkt](http://www.transfermarkt.co.uk/) which are currently associated to a squad. Retired players are therefore not included (If someone knows a way how to find a list of all retired players on Transfermarkt (or any other page which included penalty kicks data, please tell me). 
+This dataset contains one player per row. I crawled all players on Transfermarkt which are currently associated to a squad. Retired players are therefore not included (If someone knows a way how to find a list of all retired players on Transfermarkt (or any other page which included penalty kicks data, please tell me). 
 
 # Size
 The dataset contains 118748 players of 4449 clubs.
